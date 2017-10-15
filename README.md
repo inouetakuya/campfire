@@ -1,4 +1,7 @@
-# README
+Campfire
+========
+
+[Rails 5 + ActionCable で作る！シンプルなチャットアプリ（DHH 氏のデモ動画より） - Qiita](https://qiita.com/jnchito/items/aec75fab42804287d71b)
 
 This README would normally document whatever steps are necessary to get the
 application up and running.
